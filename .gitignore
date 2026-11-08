@@ -4,8 +4,9 @@ DeepLearning SDD Course - Lesson Scripts*.md
 scripts.md
 agentclinic copy/
 
-# IDE
+# VSCode
 .vscode/
+
 
 # Dependencies and build output
 node_modules/
