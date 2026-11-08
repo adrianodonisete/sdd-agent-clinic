@@ -2,7 +2,7 @@
 
 ## Task Group 1 — Establish TypeScript and Hono Project
 
-1. Inspect the lesson directory and preserve applicable repository guidance.
+1. Inspect the repository root and preserve applicable project guidance.
 2. Add only dependencies needed for Hono, TypeScript, and the TypeScript development command (`tsx`).
 3. Configure strict TypeScript compilation for the Node.js application.
 4. Add a development command to the project package scripts.

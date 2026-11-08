@@ -2,7 +2,7 @@
 
 ## Required Before Merge
 
-- Run the TypeScript build command from the lesson directory.
+- Run the TypeScript build command from the repository root.
 - Confirm compilation exits successfully with no TypeScript errors.
 - Confirm development command is present and starts the TypeScript application.
 - Review implementation against `requirements.md`: `GET /` returns a successful server-rendered HTML home page with a meaningful title, AgentClinic heading, and welcome text confirming the clinic is running.

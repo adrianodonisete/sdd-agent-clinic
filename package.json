@@ -1,0 +1,20 @@
+{
+  "name": "agentclinic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A compassionate clinic for AI agents seeking support.",
+  "scripts": {
+    "dev": "tsx watch src/index.tsx",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@hono/node-server": "1.19.18",
+    "hono": "4.13.17"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "4.21.0",
+    "typescript": "^5.5.3"
+  }
+}
